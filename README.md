@@ -33,7 +33,7 @@ sample request body:
 }
 
 sample response:
-status: 200
+status: 201
 {
     "status": "success",
     "result": {
