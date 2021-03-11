@@ -39,7 +39,7 @@ status: 200
     "result": {
         "order_id": "16",
         "customer_id": "2",
-        "customer_name": "SidRoy",
+        "customer_name": "Sid Roy",
         "store_id": "2",
         "store_name": "Chroma South Delhi",
         "product_info": [
